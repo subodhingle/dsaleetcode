@@ -42,7 +42,6 @@ class Solution {
                 index--;
             }
         }
-
         return totalSwaps;
     }
 }
